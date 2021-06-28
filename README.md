@@ -1,2 +1,2 @@
-# open-weather-cache
-Open Weather cache
+# weather-cache
+Weather cache
